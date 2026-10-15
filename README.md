@@ -1,0 +1,2 @@
+# Freefire-gam
+Free
